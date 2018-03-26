@@ -10,12 +10,21 @@
     padding: 50px;
     background-color: lightblue;
 }
+h1{
+    background-color: yellow;
+}
+#firstname {
+    background-color:lightpink;
+}
 </style>
 </head>
 <body>
-
+<h1>Welcome to My Homepage</h1>
 <p id="para1">Hello World!</p>
-<p>This paragraph is not affected by the style.</p>
-
+<p>This is my first website.</p>
+<div class="intro">
+  <p id="firstname">My name is Charanjot.</p>
+  <p id="hometown">I live in St.Louis.</p>
+</div>
 </body>
 </html>
