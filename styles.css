@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-
 #para1 {
     text-align: center;
     color: red;
@@ -16,16 +11,4 @@ h1{
 #firstname {
     background-color:lightpink;
 }
-</style>
-</head>
-<body>
-<h1>Welcome to My Homepage</h1>
-<p id="para1">Hello World!</p>
-<p>This is my first website.</p>
-<div class="intro">
-  <p id="firstname">My name is Charanjot.</p>
-  <p id="hometown">I live in St.Louis.</p>
-</div>
-<img src="IMG_6760.JPG" alt="Girl in a white dress">
-</body>
-</html>
+
